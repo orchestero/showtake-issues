@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://showtake.app/docs
+    about: Install, MCP setup per agent, presets, troubleshooting.
+  - name: License, billing or private questions
+    url: mailto:support@showtake.app
+    about: Email support (keys, Macs, refunds, anything you would rather not post publicly).
