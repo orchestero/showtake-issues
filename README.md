@@ -72,6 +72,10 @@ Resource: `showtake://guide` (agent guide). Prompt: `film_demo`.
 Docs: [MCP setup](https://showtake.app/docs/mcp-setup) · [Tools reference](https://showtake.app/docs/tools) ·
 [Agent playbook](https://showtake.app/agents.md)
 
+## Press kit
+
+Logo, gallery and screenshots: [press-kit/](press-kit/).
+
 ## License
 
 ShowTake is proprietary software with a free tier; see [LICENSE](LICENSE) and the
